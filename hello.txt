@@ -1,1 +1,5 @@
-Hello world
+<<<<<<< HEAD
+
+=======
+Hello
+>>>>>>> branch-B
